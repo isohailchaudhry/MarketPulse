@@ -1,0 +1,6 @@
+{
+  "name": "MarketPulse AI",
+  "description": "Professional Market Intelligence Dashboard for data-driven product insights and AI-powered strategy generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["AI Strategy Generation", "Market Trend Analysis", "Trend Visualization", "PDF Export"]
+}
