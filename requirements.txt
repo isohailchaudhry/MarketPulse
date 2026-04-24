@@ -1,0 +1,4 @@
+pandas
+pytrends
+supabase
+python-dotenv
